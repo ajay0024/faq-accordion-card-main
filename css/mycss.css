@@ -75,7 +75,7 @@ body {
   height: 184px;
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 767.98px) {
   .image * {
     overflow: visible;
   }
